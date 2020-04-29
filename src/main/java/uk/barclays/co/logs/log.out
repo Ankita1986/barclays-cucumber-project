@@ -1,0 +1,15 @@
+2020-04-27 11:04:238 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 11:04:629 INFO  HomePage :33 - Clicking on login linkProxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-27 11:04:664 INFO  HomePage :30 - Getting text from [[ChromeDriver: chrome on WINDOWS (3c2111906928575ff18148af176cd16d)] -> xpath: //strong[contains(text(),'Quick, safe and convenient')]]
+2020-04-27 11:04:349 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 11:04:201 INFO  HomePage :33 - Clicking on login linkProxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-27 11:04:315 INFO  HomePage :37 - Entering surname : Kaswalato surname field: [[ChromeDriver: chrome on WINDOWS (86664a98ce139e7a133ca6d03e4674bd)] -> xpath: //input[@name='surname']]
+2020-04-27 11:04:944 INFO  HomePage :43 - clicking on next step button : [[ChromeDriver: chrome on WINDOWS (86664a98ce139e7a133ca6d03e4674bd)] -> xpath: //button[contains(text(),'Next Step')]]
+2020-04-27 11:04:971 INFO  HomePage :48 - Getting text from [[ChromeDriver: chrome on WINDOWS (86664a98ce139e7a133ca6d03e4674bd)] -> xpath: //body/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]]
+2020-04-27 11:04:708 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 11:04:705 INFO  HomePage :38 - Clicking on register linkProxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 11:04:756 INFO  RegisterPage :27 - Getting text from [[ChromeDriver: chrome on WINDOWS (19f9e7626632bfbc2d167a289994a825)] -> xpath: //h2[contains(text(),'Register for Online Banking')]]
+2020-04-27 11:04:468 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 11:04:371 INFO  HomePage :38 - Clicking on register linkProxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 11:04:488 INFO  RegisterPage :35 - Clicking on start button : [[ChromeDriver: chrome on WINDOWS (21ecaeb25d172a9e3f39246a9d8c81c5)] -> xpath: //body//div[2]//div[2]//button[1]]
+2020-04-27 11:04:702 INFO  RegisterPage :39 - Getting text from : [[ChromeDriver: chrome on WINDOWS (21ecaeb25d172a9e3f39246a9d8c81c5)] -> xpath: //h4[contains(text(),'Your details')]]
